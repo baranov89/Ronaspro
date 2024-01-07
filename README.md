@@ -11,5 +11,5 @@ Ronaspro is a reliable tool for efficient project management that will help you 
 ![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro5.png)
 ![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro4.png)
 ![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro3.png)
-![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro2png)
+![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro2.png)
 ![Image alt](https://github.com/baranov89/Ronaspro/blob/main/RonasPro1.png)
